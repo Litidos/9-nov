@@ -28,7 +28,7 @@ El litio obtenido se los salares se recupera en forma de carbonato de litio, la 
 
 Todo comienza con la perforación de un agujero en la superficie y, luego, se procede al bombeo de la salmuera. A continuación se deja evaporar durante meses, para que de esa manera, se forme una mezcla de manganeso, potasio, bórax que se filtren y se colocen a evaporar. Finalmente, todo el proceso concluye en 12 y 18 meses. Período que se toma para que la mezcla se filtre lo suficiente como para extraer el carbonato de litio (conocido como oro blanco).
 
-[https://camiper.com/tiempominero/mineria-de-litio-cual-es-su-proceso-de-extraccion/]
+https://camiper.com/tiempominero/mineria-de-litio-cual-es-su-proceso-de-extraccion/
 
 **Cuestionamientos a la Extracción del Litio: introducción al problema medioambiental**
 
@@ -36,7 +36,7 @@ Para satisfacer el mercado creciente de autos eléctricos el ya sobre explotado 
 
 El proceso de evaporación consume mucha agua. El nivel del agua subterránea está bajando en la región, los cursos fluviales y los humedales se están secando. En las comunidades de los alrededores, hay escasez de agua, la contaminación del suelo y el agua potable aumentan porque el agua residual no es tratada. Este no solo es un problema para la población residente, en su mayoría indígena, sino también para la flora y la fauna.
 
-[https://www.dw.com/es/extracci%C3%B3n-de-litio-en-chile-bendici%C3%B3n-o-maldici%C3%B3n/a-43569558]
+https://www.dw.com/es/extracci%C3%B3n-de-litio-en-chile-bendici%C3%B3n-o-maldici%C3%B3n/a-43569558
 
 **Movimientos Sociales por el Litio: surgimiento de la protesta ante la problemática social y medioambiental**
 
@@ -46,7 +46,7 @@ Como Movimiento hemos planteado, permanentemente que, además de la insostenible
 
 Para Chile, las reservas de litio constituyen una oportunidad única por la necesidad imprescindible y urgente en el mundo del siglo 21 de transitar desde energías y tecnologías contaminantes a limpias. Esta oportunidad es un imperativo para sacar a nuestro país de la condición de simple exportador de materias primas en estado semibruto, incentivando la investigación y el aporte de valor agregado a este mineral.”
 
-[http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/]
+http://soylimari.cl/index.php/2019/10/29/movimiento-litio-para-chile-pide-una-nueva-constitucion/
 
 **Políticas para el Litio y Nueva constitución: regularización legal sobre la extracción del litio y nacionalización**
 
@@ -56,6 +56,6 @@ Actualmente, el litio está definido como un mineral no concesionable en el Cód
 
 Por Constitución no se puede nacionalizar el litio. Para lograrlo habría que modificar la carta fundamental. Desde 1977 los yacimientos de litio del Salar de Atacama pertenecen a Corfo, entidad del Estado. Desde 1983 el nuevo Código de Minería declara no concesible el litio, que es similar a reservarlo al Estado, mientras que la Constitución de 1980 establece que solo el Presidente de la República, mediante decreto supremo, puede permitir que privados exploten el litio chileno, con la sola excepción de que se podrían otorgar concesiones administrativas o contratos especiales de operación.
 
-[https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/]
+https://www.eldesconcierto.cl/2019/11/24/el-cobre-y-el-litio-para-chile-nueva-constitucion-para-un-estado-soberano-y-libre-de-extractivismo/
 
-[https://www.cnnchile.com/pais/es-posible-nacionalizar-el-litio_20180608/]
+https://www.cnnchile.com/pais/es-posible-nacionalizar-el-litio_20180608/
