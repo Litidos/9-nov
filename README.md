@@ -1,4 +1,4 @@
-# Infografía Digital: Litio en Chile - Avance 9 de noviembre
+# Litio en Chile: No todo lo que brilla es oro.
 
 
 ## Estructura :pushpin:
